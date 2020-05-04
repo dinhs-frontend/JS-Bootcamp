@@ -1,1 +1,28 @@
-javas script dag 1
+# Value & Types
+
+* Boolean (true or false)
+* Null (geen waarde vb: null > 0)
+* Undefined (x Kan de waarde niet vinden)
+* Number (nummer)
+* String ("" )
+* Symbol (symbool () )
+* Object (Lijst vb: var person = { firstName: "John",lastName: "Doe")
+
+***
+
+## ECMAScript
+
+ECMAScript is waarop JavaScript is op gebaseerd. De afkorting daar die ze daar voor gebruiken is ES.
+
+### Wat wordt er bedoeld?
+ECMAScript is de standaard waarop het is gebaseerd. Het is een script taal. Wordt gebruikt om te standaardiseren voor elke webbrowser.
+
+Naast JavaScript implementeren (ed) ECMAScript andere talen, waaronder:
+
+* ActionScript (de Flash-scripttaal), die aan populariteit verliest omdat Flash in 2020 officieel wordt stopgezet
+
+* JScript (het dialect van Microsoft-scripts), omdat JavaScript destijds alleen door Netscape werd ondersteund en de browseroorlogen op hun hoogtepunt waren, moest Microsoft een eigen versie voor Internet Explorer bouwen
+
+JS is de meest populaire en gebruikte implementatietie van ES. 
+
+Versie kun je herkennen aan de getallen achter elke ES. Zo heb je nu bijvoorbeeld: ES11 van 2020 en daar voor ES10 van 2019. Elk jaar komt er een nieuwe update.
