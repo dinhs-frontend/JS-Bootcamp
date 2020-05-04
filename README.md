@@ -1,1 +1,1 @@
-# JS-Bootcamp - test
+# JS-Bootcamp
